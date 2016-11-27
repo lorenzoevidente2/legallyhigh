@@ -1,0 +1,45 @@
+
+body{
+	background-color: black;
+	background-image: url("img/doit/planet.gif");
+
+}
+
+.jumbotron{
+
+background-image: url("img/home/weed.png");
+padding-bottom: 0px;
+color: white;
+font-style: italic;
+font-family: georgia;
+margin-bottom: 0px;
+}
+.row{
+	margin-bottom: 50px;
+}
+#navi{
+
+ margin-bottom: 0px;
+ border-radius: 0px;
+ background-color: black;
+ font-weight: 900;
+ font-family: georgia;
+ font-style: italic;
+}
+
+#first{
+	color: white;
+	font-style: italic;
+font-family: georgia;
+font-weight: bold;
+
+}
+
+hr{
+border-color: green;
+	}
+
+	#astro{
+		position: fixed;
+		z-index: 2;
+	}

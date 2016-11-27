@@ -1,0 +1,87 @@
+body{
+	background-color: black;
+}
+
+.jumbotron{
+background-image: url("img/home/weed.png");
+font-style: italic;
+font-family: Georgia;
+font-weight: 900;
+color: white;
+margin-bottom:0px;
+
+margin: auto 
+}
+
+#navi{
+border-radius: 0px;
+background-color:black;
+margin-bottom: -50px
+
+
+}
+
+#hr1{
+
+	width: 400px;
+	margin: auto;
+	border-width: 3px;
+	color: white;
+	border-radius: 2px;
+}
+
+hr{
+	width: 400px;
+	border-width: 3px;
+    border-color: green;
+}
+
+img{
+	width: 200px;
+	height: 75px;
+
+}
+
+#first{
+    
+	
+	
+	 
+	color: white;
+	font-style: italic;
+	font-family: Georgia;
+	font-weight: bold;
+}
+
+#one{
+	background-image: url("img/home/high.png");
+	background-repeat:round;
+	
+	height: 600px;
+}
+
+#second{
+
+color: white;
+	font-style: italic;
+	font-family: Georgia;
+	font-weight: bold;
+}
+
+
+#intro{
+
+	height: 600px;
+}
+
+a{
+color: white;
+
+
+}
+a:hover{
+	text-decoration: none;
+	
+	color: green;
+	
+}

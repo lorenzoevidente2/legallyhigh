@@ -1,0 +1,66 @@
+body{
+	background-color: white;
+
+  
+}
+
+.jumbotron{
+
+background-image: url("img/home/weed.png");
+padding-bottom: 0px;
+color: white;
+font-style: italic;
+font-family: georgia;
+margin-bottom: 0px;
+}
+
+#navi{
+
+ margin-bottom: 0px;
+ border-radius: 0px;
+ background-color: black;
+ font-weight: 900;
+ font-family: georgia;
+ font-style: italic;
+}
+
+#first{
+	color: white;
+    background-image: url("img/sub/body.gif");
+    background-repeat: round;
+    background-size: 100%;
+	background-color: gray;
+	height: 100%;
+}
+
+#comments{
+	overflow-x: hidden;
+overflow-y: auto;
+   height: 600px;
+}
+
+
+.ha{
+	width: 100%;
+	height: 170px;
+	border:1px solid green;
+	border-radius: 5px;
+	background-color: #22222d;
+	overflow-wrap: break-word;
+
+}
+
+.haha{
+color: white;
+font-style: italic;
+font-family: georgia;
+font-weight: bold;
+
+}
+.hahaha{
+
+	color: white;
+	font-style: italic;
+
+}
+
